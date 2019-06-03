@@ -1,10 +1,5 @@
 # Subjective-Answer-Evaluation
 
-# Prerana J(1MS16IS058)
-# Rishabh Agarwal(1MS16IS071)
-# Rubina Ajmani(1MS16IS078)
-# Vallabh Chugh(1MS16IS133)
-### LOGIC and CONCEPT
 
 IDEA is to evalaute the subjective/descriptive answers from the model answer is provided.
 Basically for the first attempt I have ceated a Python Flask App which is hosted at localhost where we can give  answer.
