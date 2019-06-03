@@ -11,7 +11,7 @@ db = firebsevar.database()
 
 
 # firebasevar = firebase.FirebaseApplication('https://datasetcollector-b1daa.firebaseio.com/')
-# firebase_apikey = "AIzaSyDmbVrxMd2l1Pq18zTvquLUlgBCIPErqqY"
+# firebase_apikey = ""
 
 @app.route('/')
 def Base_qstn_paper_set():
